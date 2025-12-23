@@ -1,57 +1,18 @@
-## 项目/笔记
+## 项目信息
 
-联系方式：shaoycamore@gmail.com  
+- **联系方式**：shaoycamore@gmail.com  
+- **CSDN 博客**：[https://blog.csdn.net/qq_40902709](https://blog.csdn.net/qq_40902709)  
+  > 博主长期分享算法、人工智能、计算机视觉、深度学习、模型部署等相关技术内容。
 
-CSDN：```https://blog.csdn.net/qq_40902709```
+---
 
-CSDN（包含算法、AI相关内容）
+## 📁 项目结构
 
-持续更新...
+### 1. 实用工具（`Utilities/`）
+包含可直接复用的小型工具类项目。
 
-## 【目录】
+- **EAN-13 条形码校验位计算**  
+  提供 EAN-13 条形码校验位的计算原理说明及完整 C# 实现代码。
 
-#### 1、实用工具（不定期更新）
-
-#### 2、参考资料（不定期更新）
-
-#### 0、MachineLearning（不定期更新）
-
-#### 0、DeepLearning（不定期更新）
-
-#### 0、ComputerVision（不定期更新）
-
-## 【概述】
-  
-#### 1、实用工具
-
-  项目位于Utilities文件夹中
-  
-  目前包含EAN13条形码生成
-  
-  EAN13条形码：给出EAN13条形码校验位计算方法及具体C#代码
-  
-#### 2、参考资料
-
-  项目位于References文件夹当中	
-  
-  目前包含SMD-CODES DATABOOK资料
-
-提交smd-codes.pdf文件
-  
-#### 0、MachineLearning（不定期更新）
-
-  机器学习笔记&随笔位于MachineLearning文件夹
-
-#### 0、DeepLearning（不定期更新）
-
-  深度学习整理资料位于DeepLearning文件夹
-  
-#### 0、ComputerVision（不定期更新）
-  
-  整理的计算机视觉纲要位于ComputerVision文件夹
-  
-## 【说明】
-
-本项目是根据计算机视觉相关内容结合生活中具体的场景产生的。
-
-本项目涉及计算机视觉中人脸识别，活体检测，特征识别，CNN网络等相关技术。
+### 2. 参考资料（`References/`）
+整理归档的技术参考资料，涵盖算法、AI、工程实践等方向。
