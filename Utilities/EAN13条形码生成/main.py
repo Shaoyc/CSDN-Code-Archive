@@ -9,7 +9,7 @@ namespace WindowsFormsApp2
         int num = 0;
         int[] Array = new int[13];
 
-        public Form1()
+        公共 Form1()
         {
             InitializeComponent();
         }
